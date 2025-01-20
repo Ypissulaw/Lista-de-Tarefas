@@ -5,7 +5,8 @@
 Principal ⬅️
 - Espaço do usuário: Possibilidade de criar diferentes focos (trabalho, pessoal, final de ano) 
 - Espaço para notas: Escreva, salve e baixe suas anotações 
-- Tarefas já completas: visualize todas as suas tarefas já concluídas 
+- Tarefas já completas: visualize todas as suas tarefas já concluídas
+- Linguagem: Com php traduzi para o ingles e portuges 
 - CRUD completo para cada tarefa 🟩🟥🟪
 
 
