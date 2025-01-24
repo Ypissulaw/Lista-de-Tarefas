@@ -1,6 +1,6 @@
 # Lista-de-Tarefas🟢🟣🔴
 
-![image](https://github.com/user-attachments/assets/6f20bd3c-a960-46ee-a249-103f065ead40)
+![image](https://github.com/user-attachments/assets/42068cae-97b1-49f9-b905-039a6a1a1c67)
 
 Principal ⬅️
 - Espaço do usuário: Possibilidade de criar diferentes focos (trabalho, pessoal, final de ano) 
